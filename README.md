@@ -1,4 +1,4 @@
 # merge-solo
-badfellow
+goodfellow
 safe
-jaiden tristan ahamed
+jaiden ahamed
